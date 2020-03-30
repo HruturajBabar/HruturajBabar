@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    hrutusapp.herokuapp.com
+    'hrutusapp.herokuapp.com'
 ]
 
 
